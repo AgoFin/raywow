@@ -1,2 +1,2 @@
 # raywow
-Python project
+go project
