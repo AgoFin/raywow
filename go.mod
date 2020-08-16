@@ -1,3 +1,3 @@
-module src
+//module src
 
 go 1.14
