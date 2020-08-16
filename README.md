@@ -1,2 +1,2 @@
-# raywow
+# stringutil
 go project
